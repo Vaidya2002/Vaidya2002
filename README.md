@@ -67,8 +67,17 @@ I'm a **Full Stack Developer** currently diving deep into **AI, Python, and LLMs
 
 <br/>
 
+<div align="center">
+
+### 👇 Don't miss this
+**My live GitHub stats, streak, activity graph & trophies are just one click away**
+
+</div>
+
 <details>
-<summary><b>📊 More stuff about me — click to expand Quick Overview</b></summary>
+<summary align="center">
+  <img src="https://img.shields.io/badge/📊_CLICK_TO_REVEAL-GitHub_Stats_%7C_Streak_%7C_Trophies-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Click to expand quick overview" />
+</summary>
 
 <br/>
 
