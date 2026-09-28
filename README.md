@@ -63,13 +63,15 @@ I'm a **Full Stack Developer** currently diving deep into **AI, Python, and LLMs
 
 > 🧠 **Currently building:** AI-powered apps using Python, LLMs (OpenAI / open-source models), and LangChain — from RAG-based assistants to LLM-integrated tools.
 >
-> ℹ️ Note: GitHub strips all custom CSS/JS from READMEs, so true hover-triggered glow/motion effects can't run here — icons above use a clean, uniform dark-theme grid instead of clashing flat-color blocks for a more premium look.
+<!-- > ℹ️ Note: GitHub strips all custom CSS/JS from READMEs, so true hover-triggered glow/motion effects can't run here — icons above use a clean, uniform dark-theme grid instead of clashing flat-color blocks for a more premium look. -->
 
 <br/>
 
+<div align="center">
+
 <details>
-<summary align="center">
-  <img src="https://img.shields.io/badge/View_My_GitHub_Stats-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Click to expand GitHub stats" />
+<summary>
+  <img src="https://img.shields.io/badge/View_My_GitHub_Stats-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="Click to expand GitHub stats" />
 </summary>
 
 <br/>
@@ -111,15 +113,17 @@ I'm a **Full Stack Developer** currently diving deep into **AI, Python, and LLMs
 
 </details>
 
+</div>
+
 <br/>
 
-## 📌 Featured Projects
+<!-- ## 📌 Featured Projects
 
 <div align="center">
 
 <a href="https://github.com/Vaidya2002">
   <img src="https://github-readme-stats-pawan.vercel.app/api/pin/?username=Vaidya2002&repo=gitprofile&theme=tokyonight&hide_border=true" />
-</a>
+</a> -->
 
 </div>
 
