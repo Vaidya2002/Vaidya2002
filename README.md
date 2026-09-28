@@ -67,16 +67,9 @@ I'm a **Full Stack Developer** currently diving deep into **AI, Python, and LLMs
 
 <br/>
 
-<div align="center">
-
-### 👇 Don't miss this
-**My live GitHub stats, streak, activity graph & trophies are just one click away**
-
-</div>
-
 <details>
 <summary align="center">
-  <img src="https://img.shields.io/badge/Click_to_Reveal_My_GitHub_Stats-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Click to expand quick overview" />
+  <img src="https://img.shields.io/badge/View_My_GitHub_Stats-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Click to expand GitHub stats" />
 </summary>
 
 <br/>
@@ -91,8 +84,6 @@ I'm a **Full Stack Developer** currently diving deep into **AI, Python, and LLMs
 <img height="165em" src="https://github-readme-stats-pawan.vercel.app/api/top-langs/?username=Vaidya2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
-
-<p align="center"><i>My GitHub stats — powered by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>, a project I love referencing for its beautifully animated rank circle.</i></p>
 
 <br/>
 
