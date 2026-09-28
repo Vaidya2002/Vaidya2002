@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=220&section=header&text=Pawan%20Vaidya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20things%20for%20the%20web&descAlignY=55&descSize=20" width="100%"/>
+<img src="assets/header-banner.svg" width="100%" alt="Pawan Vaidya — Full Stack Developer, AI / LLM Explorer" />
 
 <a href="https://github.com/Vaidya2002">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Exploring+AI+%7C+Python+%7C+LLMs;React+%7C+Node.js+%7C+.NET+%7C+SQL;Building+AI-powered+projects;Always+shipping+something+new!&font=Fira+Code&center=true&width=600&height=45&color=7aa2f7&vCenter=true&size=22" alt="Typing SVG" />
