@@ -76,7 +76,7 @@ I'm a **Full Stack Developer** currently diving deep into **AI, Python, and LLMs
 
 <details>
 <summary align="center">
-  <img src="https://img.shields.io/badge/📊_CLICK_TO_REVEAL-GitHub_Stats_%7C_Streak_%7C_Trophies-7aa2f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="Click to expand quick overview" />
+  <img src="https://img.shields.io/badge/Click_to_Reveal_My_GitHub_Stats-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="Click to expand quick overview" />
 </summary>
 
 <br/>
@@ -87,8 +87,8 @@ I'm a **Full Stack Developer** currently diving deep into **AI, Python, and LLMs
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vaidya2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaidya2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="165em" src="https://github-readme-stats-pawan.vercel.app/api?username=Vaidya2002&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+<img height="165em" src="https://github-readme-stats-pawan.vercel.app/api/top-langs/?username=Vaidya2002&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -127,7 +127,7 @@ I'm a **Full Stack Developer** currently diving deep into **AI, Python, and LLMs
 <div align="center">
 
 <a href="https://github.com/Vaidya2002">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vaidya2002&repo=gitprofile&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-pawan.vercel.app/api/pin/?username=Vaidya2002&repo=gitprofile&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
