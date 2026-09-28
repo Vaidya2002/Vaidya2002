@@ -1,0 +1,43 @@
+<svg width="300" height="58" viewBox="0 0 300 58" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pillGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7aa2f7"/>
+      <stop offset="50%" stop-color="#bb9af7"/>
+      <stop offset="100%" stop-color="#7dcfff"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="55%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="pillClip">
+      <rect x="1" y="1" width="298" height="56" rx="28"/>
+    </clipPath>
+    <filter id="btnGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="1" y="1" width="298" height="56" rx="28" fill="url(#pillGrad)" opacity="0.35" filter="url(#btnGlow)"/>
+  <rect x="1" y="1" width="298" height="56" rx="28" fill="url(#pillGrad)"/>
+
+  <g clip-path="url(#pillClip)">
+    <rect x="-150" y="0" width="120" height="58" fill="url(#shine)">
+      <animateTransform attributeName="transform" type="translate" values="0,0; 480,0" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g transform="translate(28,29)" fill="#ffffff">
+    <rect x="-2" y="-2" width="4" height="9" rx="1"/>
+    <rect x="5" y="-8" width="4" height="15" rx="1"/>
+    <rect x="12" y="-12" width="4" height="19" rx="1"/>
+  </g>
+
+  <text x="165" y="35" text-anchor="middle" font-family="Segoe UI, Verdana, sans-serif" font-size="17" font-weight="700" fill="#ffffff">View My GitHub Stats</text>
+</svg>

@@ -71,7 +71,7 @@ I'm a **Full Stack Developer** currently diving deep into **AI, Python, and LLMs
 
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/View_My_GitHub_Stats-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="Click to expand GitHub stats" />
+  <img src="assets/stats-button.svg" width="260" alt="Click to expand GitHub stats" />
 </summary>
 
 <br/>
@@ -131,7 +131,7 @@ I'm a **Full Stack Developer** currently diving deep into **AI, Python, and LLMs
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vaidya2002&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=Vaidya2002.gitprofile&left_text=Profile%20Views&left_color=%231a1b27&color=%237aa2f7)
 
 <img src="assets/footer-waves.svg" width="100%" alt="A little ship sailing across animated waves" />
 
