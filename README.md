@@ -71,7 +71,7 @@ I'm a **Full Stack Developer** currently diving deep into **AI, Python, and LLMs
 
 <details>
 <summary>
-  <img src="assets/stats-button.svg" width="260" alt="Click to expand GitHub stats" />
+  <img src="assets/stats-button.svg" width="190" alt="Click to expand GitHub stats" />
 </summary>
 
 <br/>
