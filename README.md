@@ -129,6 +129,6 @@ I'm a **Full Stack Developer** currently diving deep into **AI, Python, and LLMs
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Vaidya2002&color=7aa2f7&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,22&height=100&section=footer" width="100%"/>
+<img src="assets/footer-waves.svg" width="100%" alt="A little ship sailing across animated waves" />
 
 </div>
